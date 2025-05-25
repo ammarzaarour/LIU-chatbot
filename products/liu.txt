@@ -1,0 +1,918 @@
+Registration Of Courses
+The student maximum allowed number of credit hours varies between 18 and 20 hours, while the minimum is subject to program duration criteria. In some special cases, a student may register for up to a maximum of 21 credit hours under the following conditions:
+•	If the student Cumulative Grade Point Average CGPA is 2 or above
+•	If this load will enable the student to graduate at the end of the semester as specified
+In the Summer Term, the maximum number of credit hours for which the students can register is 8 hours
+To register a course:
+•	A student must have completed a prerequisite course. A Prerequisite is a course that a student must take before he/she is allowed to take another particular course.
+•	For instance, I student cannot register in Level 2 English before completing Level 1 English. In some cases, a student will also need to register a co-requisite course(s).
+•	A co-requisite is a course that is required to be registered simultaneously with another course. Students should consult with their advisors at their schools to learn what courses to register, to avoid delaying graduation.
+•	Grade versus Quality Points
+Percent(%)	QPTS	Percent(%)	QPTS	Percent(%)	QPTS	Percent(%)	QPTS
+>=90	4	82	3.2	74	2.4	66	1.6
+89	3.9	81	3.1	73	2.3	65	1.5
+88	3.8	80	3.0	72	2.2	64	1.4
+87	3.7	79	2.9	74	2.1	63	1.3
+86	3.6	78	2.8	70	2.0	62	1.2
+85	3.5	77	2.7	69	1.9	61	1.1
+84	3.4	76	2.6	68	1.8	60	1.0
+83	3.3	75	2.5	67	1.7	<60	0
+•	 
+•	The Grade Point Average rating is stated below:
+
+Undergraduate	Graduate(Except Engineering)
+GGPA Average	Rating	GGPA Rating	Rating
+3.91 - 4.00	Excellent	3.91 - 4.00	Excellent
+3.28 - 3.90	Very Good	3.60 - 3.90	Very Good
+2.64 - 3.27	Good	3.3 - 3.59	Good
+2.0 - 2.63	Satisfactory	3.0 - 3.29	Satisfactory
+Less than 2.0	Unsatisfactory	Less than 3.0	Unsatisfactory
+
+The course status abbreviation can be found below:
+
+Course Status	Letter
+Academic Withdrawal	AW
+Incomplete	I
+Withdrawal	W
+Pass/Not-Pass at least 50 % for remedial courses	P/NP
+
+Change Of Major
+To be eligible for a change of major within the same School, the student must meet the requirements for admission to the new major. He or she must submit a change of major form provided by the Registrar’s Office. The request for the student’s admission is considered by the Department and by the Dean concerned. After approval, the form is sent to the Registrar’s Office for implementation. A student moving into another School within the University is considered as a new student by the new School, the student must meet the requirements for admission to the new school/major. The student is required to fill in a form for a change of major provided by the Registrar’s Office. The request for the student’s admission is considered by the Department and by the Dean concerned. After approval, the form is sent to the Registrar’s Office for implementation.
+
+
+Attendance Policy
+In any regular semester or summer term, students may miss no more than 33.33% of the course. It should be well noted that attendance is taken for all class sessions, i.e. from the first to the last day of classes, and that excuses of any nature do NOT eliminate an absence whatsoever. Students who exceed the above limits are automatically given an (AW) grade in the course, and consequently not be allowed to attend class any longer.
+Make-UP Examination Policy
+A student is eligible for a mid-term or final examination make-up if he/she encountered the following incidents:
+  Sickness (proved by hospitalization report; a discharge summary is necessary
+  Death in the family proved by a death certificate or equivalent and personal identification
+  Accidents proved by an expert report
+----------------------------------------------
+
+About the School of Engineering
+
+The school of engineering lays out the foundation of professional careers. Once decided to join the school of engineering you had made the right pronouncement that will equip you with sophisticated technical and communications skills that make you exceptional to the market place.
+LIU engineering graduates work in a wide variety of industries located throughout the world; namely, in the Gulf States. Many of our graduates go on the professional and graduate schools. They are well known for their exceptional ability to communicate clearly with others, their capability to work through difficult problems, and their ability to solve problems and design creatively. Flexibility is a word often used by employers to describe our graduates.
+Even though, the School of Engineering prepares students to serve the rapidly changing demands of a new century and our undergraduate degrees provide breadth and depth; the Bachelor degree graduates are encouraged to join the Master Programs at LIU which enhance the knowledge of our master graduates and prepare them to be equipped to deal with technical topics and with the challenges of practice in the future.
+The school of engineering promotes the master graduates to keep in touch with our professors who bring insight and wisdom from many different perspectives – practical experience, research, and the roles of teachers and parents. It is hoped that through cooperation with the school our master graduates are provided opportunities for practical work experience, international study and community.
+Undergraduate Of Engineering
+
+The Engineering undergraduate program usually lasts for 5 years. The below are the documents needed, the contract sheet, the plan of study, and the course descriptions for the majors you would like to apply for.
+Requirement
+
+To apply to LIU as a bachelor student, you will need to prepare the below documents:
+•	Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate).
+•	TOEFL (International IBT) or IELTS score, if available, or must sit for the LIU English Placement Test.
+•	1 copy of the identification card.
+•	1 copy of family civil status record.
+•	1 recent passport sized colored photograph.
+•	All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+•	30$ non-refundable application fees.
+•	20$ for each Entrance exam.
+
+Electronic Engineering / Emphasis On Biomedical
+Major Title: Bachelor of Science in Electronic Engineering - Emphasis On Biomedical Major Code: BENG Level: underGraduate Number Of Credits: 108 Date: 04-09-2024 Bachelor of Science in Electronic Engineering - Emphasis On Biomedical (BENG) First Year Fall Semester Code Title Credit s Prerequisites Corequisites PHYS220 Physics for Engineers 3 PHYS161-ENGL101-PHYS160 MATH210 ARAB200 Arabic Language and Literature 3 ENGL201 Composition and Research Skills 3 ENGL151 CHEM200 General Chemistry 3 ENGL101-CHEM160 MATH210 Calculus II 3 MATH161-MATH160 MATH225 Linear Algebra with Applications 3 MATH160-ENGL051-MATH161 Total 18 Spring Semester Code Title Credit s Prerequisites Corequisites CSCI250L Introduction to Programming Lab 1 ENGL101-CSCI250 MATH220 Calculus III 3 MATH210 EENG250 Electric Circuits I 3 PHYS161-PHYS160-MATH161-MATH160-ENGL051 ENGG200-MATH210 MENG250Statics 3 MATH161-MATH160-PHYS161-PHYS160-ENGL051 MATH210 ENGG200 Introduction to Engineering 3 MATH160-CHEM160 MATH270 Ordinary Differential Equations 3 MATH210 MATH225 CSCI250 Introduction to Programming 3 ENGL101-CSCI250L Total 19 Second Year Fall Semester Code Title Credit s Prerequisites Corequisites EENG300 Electric Circuits II 3 EENG250 EENG301L ENGL251 Communicatio n Skills 3 ENGL201 CENG250 Digital Logic I 3 EENG250 Elective 3 EENG304 Biology for Biomedical Engineers 3 ENGL201-BIOL160 MATH310 Probability & Statistics for Scientists & Engineers 3 MATH210-ENGL201 EENG301 L Electric Circuits Lab 1 EENG250 EENG300 Total 19 Spring Semester Code Title Credit s Prerequisites Corequisites CENG352 L Digital Logic Circuits Lab 1 CENG250-EENG301L EENG354 L Physiology for Biomedical Engineers Lab 1 EENG354 ENGG300 Engineering Economics 3 ENGL201-MATH225 MATH220 EENG350 L Electronic Circuits I Lab 1 EENG300-EENG250-EENG301L EENG350 EENG350 Electronic Circuits I 3 ENGG200-CENG250-EENG300-EENG250 EENG350L EENG354 Physiology for Biomedical Engineers 3 EENG304 EENG354L EENG385 Signals and Systems 3 MATH225-EENG300 MATH310-MATH270 EENG388 Electromagne tic Fields and Waves 3 MATH270-PHYS220-MATH220-EENG300 Total 18 Third Year Fall Semester Code Title Credit s Prerequisites Corequisites EENG404 Biophysics and Bioelectricity 3 MENG250-PHYS220-EENG354 EENG424 Medical Instrumentati on I 3 EENG354-MATH310-EENG350 EENG424L EENG435 L Control Systems Lab 1 MATH310-EENG385 EENG435 EENG400 L Electronic Circuits II Lab 1 EENG350 EENG400 EENG484 Acquisition & Microcontrolle rs in Biomedical Engineering 3 CENG250-EENG385-CSCI250L-CSCI250-CENG352L EENG400 EENG400 Electronic Circuits II 3 EENG350 EENG400L EENG424 L Medical Instrumentati on I Lab 1 EENG424 EENG435 Control Systems 3 PHYS220-MENG250-MATH270-MATH225-MATH310-EENG300- EENG385 EENG435L Total 18 Spring Semester Code Title Credit s Prerequisites Corequisites EENG484 L Acquisition and Microcontrolle rs in Biomedical Engineering Laboratory 1 EENG484 ENGG450 Engineering Ethics and Professional Practice 3 ENGL251 EENG494-ENGG300 EENG474 Medical Imaging I 3 EENG388-EENG424 EENG494 Senior Project 3 EENG484-EENG424-EENG400 CULT200 Introduction to Arab - Islamic Civilization 3 EENG414 Biocompatibili ty 3 CHEM200-EENG354 Total 16
+
+
+
+
+Graduate
+We only accept students to the pharmacy major once a year. You may apply from May until mid-August for the Pharmacy Entrance Exam.
+
+Requirement
+•	Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate).
+•	Certified copy of the university Degree.
+•	Certified copy of the university transcript.
+•	1 copy of the identification card.
+•	1 copy of family civil status record.
+•	1 recent passport sized colored photograph.
+•	All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+•	50$ non-refundable application fees.
+•	20$ for English Entrance exam.
+If you are already an LIU student, you will need to pass by the admissions office to fill out an application form and pay the $50 non-refundable application fees.
+
+If you are in need of financial assistance to attend the university, pick up an "Application Form for Financial Aid" from the Public Relations Office.
+Graduate Program
+
+Applications for admission in a master program should be submitted before the end of September and definitely before of the end of the first week of fall semester. However, applicants may be assessed and selected at any time of the year based upon their bachelor's degrees.
+Lebanese International University Students
+
+Students who have earned their bachelor's degrees at the Lebanese International University are accepted in Master Programs if and only if their major and cumulative GPA is at least 2.0; however, the acceptance is subjected to the followings:
+1-An application must be submitted to the admission office.
+2-Admission office opens a file which must include:
+3-An official transcript. The transcript must prove that the student had been cleared for his/her bachelor degree.
+4-Admission office sends file to the School of Engineering. The file will be studied and returned to the registrar with either acceptance or rejection letter within 72 hours.
+5-School will return the file to registrar officer with the recommendations. The officer will be changing the major, entering all remedial requirements if any. Furthermore, the registrar officer and upon performing all the recommendations will open a file which includes the curriculum along with the acceptance letter. This file will be sent to school immediately.
+Non-Lebanese International University Students
+
+Applicants who have earned their bachelor's degrees from institutions that have licenses from the ministry of higher education and their major GPA is at least 2.25, are welcome to continue their masters at the Lebanese International University. However, the acceptance is subjected to the following conditions:
+1-An application must be submitted to registrar office.
+2-The registrar office opens a file which must include:
+3-An official transcript that is mailed by the institution.
+4-A certified degree, that is, approved from the ministry of higher education
+5-Certified Identification
+6-The registrar office sends the file to the School of Engineering, which includes the result of English Examination. A designated registrar officer sends this file to the school. The file will be studied and returned to the registrar with either acceptance or rejection letter within 72.
+7-School will return the file to registrar officer with the recommendations. The officer will be fully responsible for changing the major, entering all remedial requirements if any. Furthermore, the registrar officer and upon performing all the recommendations will open a file which includes the curriculum along with the acceptance letter. This file will be sent to school immediately.
+Major Title	Credits
+Master's of Science in Electronic Engineering / Emphasis On Biomedical	52
+Master's of Science in Computer and Communication Engineering	52
+Master's of Science In Electrical Engineering	52
+Master's of Science in Electronics Engineering	52
+Master's of Science in Mechanical Engineering	52
+Master's of Science in Surveying Engineering	52
+Master's of Science in Industrial Engineering	52
+
+
+-----------------------------------------
+Welcome to the School of Education
+A Message from the Dean of the School of Education
+
+The School of Education's mission focuses on the improvement of learning and teaching in educational settings. We value the importance of teaching and research within a major research university. Striking such a balance depends on three key ideas: focusing our research squarely on the improvement of educational practice, offering high quality programs of instruction for present and future educational practitioners, and collaborating directly with other educators to improve practice. The idea of this balance is incorporated in our mission.
+
+To pursue this mission, four goals guide our decisions and actions. These goals call for the School to focus its work on issues of learning and teaching, offer exemplary programs of instruction, apply knowledge to improve educational practice, and increase diversity in staffing and curricula. In discussing each goal, we will first elaborate on the challenges from which it arises and then outline our recent improvements and new developments designed to achieve it.
+
+Undergraduate
+The Education undergraduate program usually lasts for 3 years. The below are the documents needed, the contract sheet, the plan of study, and the course descriptions for the majors you would like to apply for.
+Requirement
+
+To apply to LIU as a bachelor student, you will need to prepare the below documents:
+•	Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate).
+•	TOEFL (International IBT) or IELTS score, if available, or must sit for the LIU English Placement Test.
+•	1 copy of the identification card.
+•	1 copy of family civil status record.
+•	1 recent passport sized colored photograph.
+•	All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+•	30$ non-refundable application fees.
+•	20$ for each Entrance exam.
+If you are in need of financial assistance to attend the university, pick up an "Application Form for Financial Aid" from the Public Relations Office.
+Major Title	Credits
+Early Childhood Education	99
+Teacher Education (Biology - Chemistry)	99
+Teaching English as a Second Language	99
+Teacher Education (Physics - Mathematics)	99
+Translation	108
+
+
+Graduate
+LIU offers several graduate degrees in the School of Education. The degree usually lasts for 2 years.
+Requirement
+•	Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate).
+•	Certified copy of the university Degree.
+•	Certified copy of the university transcript.
+•	1 copy of the identification card.
+•	1 copy of family civil status record.
+•	1 recent passport sized colored photograph.
+•	All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+•	50$ non-refundable application fees.
+•	20$ for English Entrance exam.
+If you are already an LIU student, you will need to pass by the admissions office to fill out an application form and pay the $50 non-refundable application fees.
+
+If you are in need of financial assistance to attend the university, pick up an "Application Form for Financial Aid" from the Public Relations Office.
+ 
+Major Title	Credits
+Master's of Education in Teaching English as a Foreign Language	39
+Master's of Education in Educational Management	39
+Teaching Diploma in Education	24
+
+
+
+----------------------------------
+Welcome to the School of Business
+About the School of Business
+
+The School of Business at LIU has witnessed significant growth in the last five years, and gained a leading position among the several educational institutions offering similar programs of study. In addition, the SoBU has adopted up-to-date, rich, and profound curricula, offering the Lebanese and regional job markets business graduates who are realistic, practical, eager to learn, and radiating good citizenship values.
+
+The SoBU currently comprises more than 10,000 students majoring in eight undergraduate business disciplines and an MBA program with eight different emphases. The Faculty is supported with a rich body of instructors who are in their majority experienced educators and working professionals.
+Welcome to the School of Business
+
+About the School of Business
+
+The School of Business at LIU has witnessed significant growth in the last five years, and gained a leading position among the several educational institutions offering similar programs of study. In addition, the SoBU has adopted up-to-date, rich, and profound curricula, offering the Lebanese and regional job markets business graduates who are realistic, practical, eager to learn, and radiating good citizenship values.
+
+The SoBU currently comprises more than 10,000 students majoring in eight undergraduate business disciplines and an MBA program with eight different emphases. The Faculty is supported with a rich body of instructors who are in their majority experienced educators and working professionals.
+
+
+Historical Review
+
+As one of the LIU’s fundamental pillars, the SoBU has evolved and developed in accordance with the growth of the university. Since the establishment of the SoBU, the curricula have undergone several adjustments to meet recent market trends and requirements.
+
+In tandem with curricula development, the SoBU has improved its physical facilities, increased the pool of qualified faculty members, and adopted systematic procedures to achieve excellence in education as stated in the Institution’s mission statement.
+
+The School of Business constitutes close to one third of LIU’s student population.
+Undergraduate
+Undergraduate Of Business
+
+The Business undergraduate program usually lasts for 3 years. The below are the documents needed, the contract sheet, the plan of study, and the course descriptions for the majors you would like to apply for.
+Requirement
+
+To apply to LIU as a bachelor student, you will need to prepare the below documents:
+•	Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate).
+•	TOEFL (International IBT) or IELTS score, if available, or must sit for the LIU English Placement Test.
+•	1 copy of the identification card.
+•	1 copy of family civil status record.
+•	1 recent passport sized colored photograph.
+•	All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+•	30$ non-refundable application fees.
+•	20$ for each Entrance exam.
+If you are in need of financial assistance to attend the university,  
+Major Title	Credits
+Accounting Information Systems	99
+Economics	99
+Banking & Finance	99
+Hospitality Management	99
+Business Management	99
+Management Information Systems	99
+Marketing	99
+International Business Management	99
+LIU-Worms International Business Management	101
+
+
+
+Graduate
+LIU offers several graduate degrees in the School of Business. The degree usually lasts for 2 years.
+Requirement
+•	Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate).
+•	Certified copy of the university Degree.
+•	Certified copy of the university transcript.
+•	1 copy of the identification card.
+•	1 copy of family civil status record.
+•	1 recent passport sized colored photograph.
+•	All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+•	50$ non-refundable application fees.
+•	20$ for English Entrance exam.
+If you are already an LIU student, you will need to pass by the admissions office to fill out an application form and pay the $50 non-refundable application fees.
+
+If you are in need of financial assistance to attend the university, 
+Major Title	Credits
+Master's of Business Administration	39
+LIU-Worms Master's of Business Administration	56
+
+
+Welcome to the Freshman Program
+
+To complete the freshman program each student must complete at least 30 credits in Freshman Arts, Freshman Sciences, or Freshman Engineering. The difference between each freshman program depends on which major the student would like to pursue after completion of freshman program.
+The curriculum of the freshman program is based on the requirements of the Ministry of Education. Students who should complete the freshman program should also complete the SAT I and SAT II to receive accreditation by the ministry. When evaluating the student's SAT scores, the Admissions Office will combine the SAT I and SAT II quality points. The SAT quality points for Freshman Arts are 2150 and for Freshman Sciences and Freshman Engineering are 2300, but may be subject to change according to the Ministry of Education. If the student has completed the Lebanese baccalaureate or its equivalence, he or she cannot enroll in the freshman program. Once the student completes the freshman year, he/she gets to enroll in a specific major at the sophomore level based on his/her average or GPA.
+
+For bachelor students:
+•	Certified copy of the Freshman permission from the Lebanese Ministry of Higher Education.
+•	Certified copy of grades 10-11-and 12.
+•	1 copy of the identification card.
+•	1 copy of family civil status record.
+•	1 recent passport sized colored photograph.
+•	Copy of SAT I and SAT II (each SAT minimum 3 subjects).
+•	30$ non-refundable application fees.
+•	20$ for the English entrance exam.
+•	The minimum required score for the SATs for freshman arts is 2600, while the score for freshman sciences is 2750.
+If you are in need of financial assistance to attend the university, pick up an "Application Form for Financial Aid" from the Public Relations Office.
+
+Each student should submit an online application, at www.liuserver.net, or directly in the admission office assisted by an admission staff member. The admission file should be completed with all required documents to the admission office soon after the application. The applications, along with the submitted official documents remain the sole property of LIU and will be confidential.
+ 
+Major Title	Credits
+Freshman - Arts L	31
+Freshman - Sciences L	32
+
+
+Undergraduate Of Art & Science
+The Arts & Sciences undergraduate program usually lasts for 3 years. The below are the documents needed, the contract sheet, the plan of study, and the course descriptions for the majors you would like to apply for.
+
+To apply to LIU as a bachelor student, you will need to prepare the below documents:
+ 
+•	Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate)
+•	TOEFL (International IBT) or IELTS score, if available, or must sit for the LIU English Placement Test.
+•	1 copy of the identification card
+•	1 copy of family civil status record
+•	1 recent passport sized colored photograph
+•	All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+•	30$ non-refundable application fees
+•	20$ for the English entrance exam
+If you are in need of financial assistance to attend the university, pick up an "Application Form for Financial Aid" from the Public Relations Office.
+
+
+Major Title	Credits
+Advertising	108
+Biochemistry	99
+Biology	99
+Biomedical Science	105
+Chemistry	99
+Computer Science	100
+Information Technology	100
+Food & Science Technology	99
+Graphic Design	99
+Interior Design	99
+	
+
+
+
+Plan of Study :Major Bachelor of Science in Computer Science
+
+•	CSCI390 Web Programming 3 The course investigates various techniques used for designing web pages. Presenting the basics of static web page design using HTML. Dynamic web page design using JavaScript. Introduces the server side scripting languages such as : ASP and PHP4. Prerequisite(s): CSCI 300
+
+•	CSCI373 Robotics Design & Coding 3 This course introduces the basic concepts and principles for using the Arduino microcontroller platform as an instrument to teach students about topics in electronics, programming, and human-computer interaction. Students will be able to build useful devices. Half of the in-class time is entirely devoted to developing, debugging, and refining projects where each sessio_n will have a period to solve a problem by the instructor and a period dedicated to the students to practice on a similar problem. At the end of the semester, pair__students__more will prepare a final project
+
+•	CSCI345 Digital Logic 3 The course develops the ability of the student to understand the design of digital electronic circuits which are the main components in digital computers, data communication, digital recording, and so forth. The course covers number systems, Boolean switching algebra, combinational circuit design, flip-flops, counters, registers, state machine notation, analysis of sequential circuits, and sequential circuit design
+
+•	CSCI205 Computer Science Overview 3 This course presents breadth coverage of computer science courses so that students would understand computing and appreciate technologys impact on society. Topics include binary values and number systems; data representation; gates and circuits; computing components; operating systems; file systems and directories; information systems; computer networks; and elementary Programming
+
+•	CSCI250 Introduction to Programming 3 This course introduces the basic concepts and principles of structured programming in Java. It starts by an introduction to Java showing its syntax and the structure of a program in Java then teaches simple data types, control structures, methods, arrays, and strings.
+
+•	CSCI250L Introduction to Programming Lab 1 This course is a co-requisite for the Introduction to Programming course (CSCI250). The students apply in the lab the fundamentals of programming, explained in CSCI250, by solving lab exercises. The objective of the lab is to implement programming problems using basic data types, selection and repetition structures, methods and arrays.
+
+•	CSCI300 Intermediate Programming with Objects 3 The course emphasizes the principles of Object Oriented Programming using the Java Programming Language. It starts by an introduction to creating applications using Java. Then the course introduces how to define classes and declare objects and discusses the main topics related to object oriented programming (constructors, methods, dependency, aggregation, inheritance, and polymorphism). Finally, the course introduces exception handling as well as writing to and reading from files.he course emphasizes the principles of Object Oriented Programming using the Java Programming Language. It starts by an introduction to creating applications using Java. Then the course introduces how to define classes and declare objects and discusses the main topics related to object oriented programming (constructors, methods, dependency, aggregation, inheritance, and polymorphism). Finally, the course introduces exception handling as well as writing to and reading from files.
+
+•	CSCI300L Intermediate Programming with Objects Lab 1 This course is a co-requisite for the Intermediate Programming course (CSCI300). The students implement and practice in the lab the concepts and the programming techniques they learn in CSCI300 by solving lab exercises. The main concepts of Java language as well as the object oriented programming issues are to be discussed and implemented in this module using the NetBeans IDE.
+
+•	CSCI335 Database Systems 3 This course introduces fundamentals of database systems. It starts by motivating the need of the database approach in real life scenarios and the benefit of adopting a Database Management System (DBMS). This course includes data modeling (based on the entity relationship model), data normalization and data manipulation SQL queries. Students will learn how to design, implement and query a relational database by using a Microsoft SQL Server DBMS.
+
+•	 CSCI342 Fundamentals of Networking Technologies 3 The ITNcourse introduces the architecture, structure, functions, components, and models of the Internet and other computer networks. The principles and structure of IP addressing and the fundamentals of Ethernet concepts, media, and operations are introduced to provide a foundation for the CCNA curriculum.
+
+•	MATH260Discrete Mathematics 3 Sets, elementary logic, method of proofs, induction, relations, functions, recurrence relations, difference equations, modular arithmetic, arithmetic in different bases, Boolean algebra, counting, combinatorial methods, complexity analysis, graphs, trees, algorithms, finite-state machines. Prerequisite: MATH 170 or Math Placement Test 
+
+•	MATH210Calculus II 3 This is the second course in the Calculus sequence. The course material includes logarithmic, exponential, and trigonometric functions, their inverses and their derivatives, integration techniques, improper integrals, sequences, infinite series, tests of convergence, alternating series, power series, polar coordinates and its application. 
+
+•	MATH225Linear Algebra with Applications 3 Introduction to the systems of linear equations and matrices, Gaussian eliminations, matrix operations, inverses, types of matrices, determinants and their applications, vector spaces, subspaces, linear independence, basis and dimension, rank and nullity, inner product spaces and orthogonal bases, eigenvalues and eigenvectors, applications from other disciplines such as physics, computer science, and economics.
+
+•	CSCI392 Computer Networks 3 The Routing and Switching Essentials course describes the architecture, components, and operations of routers and switches in a small network. Students learn how to configure a router and a switch for basic functionality. 
+
+•	CSCI490 Information System Development 3 Information systems development is a legitimate engineering discipline. Software process models, software engineering methods, and software tools have been adopted successfully across a broad spectrum of industry applications. Effective development of an information system depends on proper utilization of a broad range of information technology, including database management systems, operating systems, computer systems, and telecommunications networks. This course covers the phases from physical system design through the installation of working information systems; Concentrates on using the results of systems analysis and design, typically documented in CASE technology, and either building or generating systems to meet these specifications. The course is a semesterlong field project with various hands-on exercises that provide practical experience in building, testing, and installing a system. 
+
+•	MATH310 Probability & Statistics for Scientists & Engineers 3 The concept of probability and its properties, descriptive statistics, discrete and continuous random variables, expected value, distribution functions, the central limit theorem, random sampling and sampling distributions, Hypothesis testing. Prerequisite: MATH 170 
+
+•	CSCI452 Topics in Computer Science 1 This is a new course replacing the Environmental Science Lab (ENVR200L) course.
+
+•	 CSCI378 Data Structures and Algorithms 3 This course covers the design and implementation of important data structures and their algorithms. The data structures considered include stacks, queues, lists, linked lists, trees, and graphs. Students will also learn basic to fundamental algorithms for solving problems and how to compute the time complexity of algorithms and will focus on general design and analysis techniques that lie beneath these algorithms.
+
+•	CSCI430 Operating Systems 3 Fundamental overview of operating systems. First Quarter: Operating system structures, processes, process synchronization, deadlocks, CPU scheduling, memory management, file systems, secondary storage management. Requires substantial programming projects. Prerequisites: High Junior Standing or instructors consent. 
+
+•	CSCI430LOperating Systems Lab 1 This course is a co-requisite for the Operating System course. The students apply in the lab all concepts they learn in the Operating System course by solving lab exercises, and preparing several projects. The concepts include a fundamental practice of Linux OS and the basics related to process management discussed in the course sessions. These basics include process creation and termination, process communication, and process synchronization using semaphores. The students will be able to practice all of these concepts by developing, debugging, and testing programs under one of the Unix/Linux distributions. 
+
+•	MATH375 Numerical Methods for Scientists & Engineers 3 Bases and number representation, analysis of error propagation and error correction, roots for non-linear equations, computational linear algebra, polynomial interpolation, approximation of functions by polynomials, numerical differentiation and integration, numerical methods for solving differential equations, Runge-Kutta method, numerical methods for solving systems of equations and differential equations. Prerequisite: MATH 265 and CSCI 250.
+
+•	 CSCI380 Software Engineering 3 This course provides an understanding of the system development process which links user requirements to the computer based system. This course emphasizes problem formulating and problem solving. Students will learn how to analyze a problem domain and develop the appropriate analysis and design models to formalize the requirements using object oriented methods and appropriate theory.
+
+•	 CSCI351 Concepts of Programming Languages 3 The course introduces the main concepts of current programming languages and provides the student with the tools necessary to evaluate existing and future programming languages. It also explains the design of compilers by explaining in depth the programming language structures, describing the syntax in a formal method and introducing approaches to lexical and syntactic analysis. 
+
+•	CSCI435 Computer Architecture 3 The course describes the organization and architecture of computer systems; considerable differences in performance and functionality of a computer are due to its internal structure and organization. Students will understand exactly how a computer functions by writing programs in a common assembly language
+
+•	CSCI475 Artificial Intelligence 3 The course introduces the principles of non-algorithmic problem solving based on heuristics. The course explores two approaches that examine problems that could not be solved with algorithms: the Search-Based approaches and the Knowledge-Based approaches. At the end of the course the students will acquire a good knowledge about how to solve problems using heuristics and deductive reasoning techniques based on Propositional Logic and First Order Logic. The course introduces also an inference motor (tool) named PROLOG that assists to implement and test deductive inference techniques in the First Order Logic.
+
+•	 CSCI441 Machine Learning 3 The course provides a comprehensive introduction to the principles, techniques, and applications of Machine Learning. The student will learn supervised, unsupervised, and reinforcement learning techniques. The course also covers other recent developments such as probabilistic graphical models, deterministic inference methods, and emphasizes modern Bayesian perspective
+
+General Education Requirements 
+
+•	ARAB200 Arabic Language and Literature 3 This course is a comprehensive review of Arabic Grammar, Syntax, major literature and poetry styles, formal and business letters. 
+•	CSCI200 Introduction to Computers 3 The course aims at making students competent in computer-related skills. It is supposed to develop basic computer knowledge by providing an overview of the computer hardware and basic components as well as hands-on practice on common software applications such as Word, Excel, Power Point, Internet and Email. The student will learn how to use the new features of Microsoft Office 2010 mainly Word documents, Excel spreadsheets and PowerPoint presentations. On the surface, MS Office 2010 looks a lot different than previous versions (no more menus__toolbars!), but by learning to understand the dramatically changed, Ribbon-based interface, you'll quickly get back on the road to productivity. 
+•	CULT200 Introduction to Arab - Islamic Civilization 3 The purpose of this course is to acquaint students with the history and achievements of the Islamic civilization. Themes will include patterns of the political and spiritual leadership; cultural, artistic, and intellectual accomplishments Prerequisites: ENGL051, ENGL101, ENGL151.
+•	 ENGL201Composition and Research Skills 3 This course focuses on the development of writing skills appropriate to specific academic and professional purposes; the analysis and practice of various methods of organization and rhetorical patterns used in formal expository and persuasive writing; the refinement of critical reading strategies and library research techniques; and the completion of an academically acceptable library research paper. Prerequisites: ENGL150, ENGL151. 
+•	ENGL251Communication Skills 3 The objectives of this course are to improve students writing skills for academic purposes by developing effective use of grammatical structures; analytical and critical reading skills; a sensitivity to rhetorical situation, style, and level of diction in academic reading and writing; and competence in using various methods of organization used in formal writing.
+
+Graduate Of Art & Science
+To apply to LIU as a master student, you will need to prepare the below documents:
+ 
+•	Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate)
+•	Certified copy of the university transcript
+•	1 copy of the identification card
+•	1 copy of family civil status record
+•	1 recent passport sized colored photograph
+•	All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+•	30$ non-refundable application fees
+•	20$ for the English entrance exam
+f you are already an LIU student, you will need to pass by the admissions office to fill out an application form and pay the $50 non-refundable application fees.
+
+If you are in need of financial assistance to attend the university, pick up an "Application Form for Financial Aid" from the Public Relations Office.
+Major Title	Credits
+Master's of Science In Computer Science	36
+Master's of Science In Food Technology	36
+Master's of Science in Mathematics	36
+
+
+Responsibilities of the student
+
+Every student ay LIU has the responsibility to:
+ 
+1.	Be aware of the educational objectives of LIU and to observe them.
+2.	Know the academic policies of the University.
+3.	Check university-assigned e-mail account and mailbox regularly for correspondence from faculty and administrators that may address particular applications of policies and procedures to his or her academic classes and records as well as individual financial or student development issues.
+4.	Understand and complete all requirements to earn a degree.
+5.	Consult with his or her faculty advisor each semester regarding academic planning for the next semester.
+6.	Make own academic decisions. Advisors are the agents of LIU and students may rely on the advisor's information. The advisor is there to inform; the students make the decision.
+7.	Keep his or her advisor informed about any changes in academic progress, course selection and goals.
+  Responsibilities of the academic advisor
+
+Upon acceptance every student at LIU is assigned an advisor. This advisor should be appointed by the Dean/Chair according to student’s program. The period of the academic orientation is fixed during each semester. This period is during the two weeks prior to pre-registration as spelled out in the academic calendar. However, students are always encouraged to visit the school for any advising at any time. Every student needs to know and understand his or her role in the advising process as well as the role of his or her advisor. We have outlined the following responsibilities of students and advisors.
+
+The Academic Advisor shall:
+ 
+1.	Assist students noticing the basis of admissions, as stipulated in their Letters of Acceptances.
+2.	Be available throughout the academic year during office hours, and when necessary, by appointment.
+3.	Support students to effectively fulfill all the requirements of their degree program.
+4.	Familiarize students with the University academic rules, regulations, and policies.
+5.	Explain to student clearly the Registration process; Course offerings; Course pre-requisite; Course selection; Minimum/Maximum credit load; and Degree planning.
+  FINANCIAL AID:
+Driven by the philosophy of democratizing higher education along with the motto “Education for All” the students should not be denied the opportunity to pursue their university education because of limited financial resources. The Student Financial Aid Package is well-known to meet the goal of the aforementioned philosophy. This is achieved by providing qualified students with financial aid without any discrimination. LIU has created several types of financial aid programs to provide to the needs of new and current students. Following the aforementioned theme LIU grants all newly enrolled students a competitive package of financial aid. However, satisfactory academic progress (SAP) is a requirement for all students receiving Financial Aid at LIU. This generally consists of maintaining, right after attempting thirty Credits, at least a cumulative grade point average GPA of 70 % and passing enough classes (67 % of attempted Credits) with progress toward a degree. However, due to its high operational cost, students in the SoPH are not eligible to Financial Aid
+ 
+  Conditons:
+To maintain Financial Aid, a student should fulfill the conditions below:
+1.	Demonstrate financial need
+2.	Be enrolled with a minimum number of credits each semester as required by the maximum duration of program cycle
+3.	Maintain a Cumulative Grade Average of 70 %.
+A student is considered ineligible if the followings are taking place:
+1.	Receives a scholarship from another institution, equal or exceeding 50% of tuition.
+2.	Benefits from a Scholarship
+3.	Registers for less than the minimum number of credits each semester as required by the maximum duration of program cycle.
+4.	 
+  Procedures:
+1.	Students may apply for financial aid by filling out an application form, which can be obtained from the Students’ Affairs Office (SAO)
+2.	Upon taking this application, the student should schedule an interview with a Financial Aid Officer (FAO), at the Students’ Affairs Office, and submit the complete form along with the appropriate documents before the official deadline. Every semester, dates and deadlines for obtaining and submitting applications will be updated and posted on the LIU website and scheduled in the academic year calendar. The application deadline is at the End of 5th week of an academic semester
+3.	Financial Aid applications must be renewed for every academic year before the official deadline of submission of application by filling a ’Renewal Form,’ which can be obtained from the SAO.
+4.	Financial Aid Committee will review each application carefully and give the appropriate decisio
+5.	Tuition Fees
+
+6.	The tuition fees of LIU are calculated according to the number of credits. All additional education expenses such as, social security fees, registration fees, and books, will not be included within the credit price. LIU has the right to change its tuition fees and charges without notice. Students should pay his or her fees on time or will suffer a penalty. The payment voucher can be found on the UMS account in the payments.
+
+Students can pay at the following banks: IBL, FNB, Credit Libanais, Fransabank, and OMT.
+
+We provide financial aid to all our students. To apply for financial aid, please pass by your business office to fill out an application. Be ready to answer some private questions like, parents’ occupation and income, and who finances your education. The application will be processed and reviewed by a board, which will evaluate whether the applicant is eligible for financial aid or not. In the case of an acceptance, the reviewing board will set the percentage.
+
+The School of Pharmacy has a much studied tuition plan, therefore students accepted to the School of Pharmacy are not eligible for financial aid.
+7.	
+
+8.	The price list of the latest tuition fees is listed below per credit.
+9.	 
+School	Undergraduate	Graduate
+School of Business	USD 179	USD 225
+School of Engineering	USD 215	USD 285
+School of Arts & Sciences	USD 169	-
+    MS In Applied Math	-	USD 190
+    MS In Food Technology	-	USD 240
+    Computer Science	USD 215	USD 285
+    Information Technology	USD 215	-
+School of Pharmacy	USD 299	-
+School of Education	USD 169	USD 190
+Freshman	USD 165	-
+10.	Please contact the admissions office of your nearest campus for payment method.
+Fee Title	Price
+Change major	LBP 1,750,000
+Entrance Exam	LBP 700,000
+Undergraduate admission application	LBP 1,050,000
+Graduate admission application	LBP 1,750,000
+Late tuition fee penalty	LBP 350,000 & USD 10
+Late registration penalty	LBP 1,750,000
+National Social Security Funds (NSSF)	LBP 2,500,000
+New ID	LBP 350,000
+Registration fee	USD 150
+Official Transcript	LBP 500,000
+Attestation	LBP 250,000
+Graduation Fees	LBP 5,250,000
+
+
+Refund Policy
+
+
+When a student drops courses for justifiable reasons after final registration period, refund of tuition will be made according to the following schedule:
+-During drop/add period, 100 % of the tuition is refunded.
+-Tuition is not refunded after add/drop period; however, students may petition for refund.
+-Registration fees are not refundable.
+Welcome to the Transfer Program
+
+LIU has a number of different transfer and study abroad programs that gives you the opportunity to be exposed to a new culture, lifestyle and different academic experience.
+LIU welcomes all students from around the world to transfer and to have the chance to obtain an American style education.
+All transfer students transcripts will be reviewed to see which courses maybe transferable towards their program of study at LIU.
+There are a number of majors you can transfer to.
+
+If you are transferring from another university the below documents are required.
+  Certified copy of the Lebanese Baccalaureate Degree (BACCII) or Technical Baccalaureate degree (BT3) or their equivalence (Foreign Baccalaureate).
+  Certified copy of the university transcript + course description.
+  1 copy of the identification card.
+  1 copy of family civil status record.
+  1 recent passport sized colored photograph.
+  All Lebanese applicants must submit their national social security papers (daman), if available, or must pay $135 and fill the appropriate papers at the social security office.
+  30$ non-refundable application fees.
+  20$ for the English entrance exam.
+ 
+If you are in need of financial assistance to attend the university, pick up an "Application Form for Financial Aid" from the Public Relations Office.
+
+Learn more about our academic policies and procedures by clicking here
+
+Each student should submit an online application, at www.liuserver.net, or directly in the admission office assisted by an admission staff member. The admission file should be completed with all required documents to the admission office soon after the application. The applications, along with the submitted official documents remain the sole property of LIU and will be confidential.
+Beirut Campus:
+
+Address: Mouseitbeh - PO Box: 146404 Mazraa
+Telephone:
++961-1-706881
++961-1-706882
++961-1-706883
++961-1-706884
+Fax: +961-1-306044	Rayak Campus:
+
+Address: Rayak
+Telephone: +961-8-901666 or +961-76-889924	Saida Campus:
+
+Address: Behind Saray
+Telephone: +961-7-750550 or +961-7-751550
+Mobile/WhatsApp: +961-70-119446
+Fax: +961-7-752550
+Bekaa Campus:
+
+Address: Al Khyara - West Bekaa
+Telephone: +961-8-640930
+Fax: +961-8-640871	Tripoli Campus:
+
+Address: Dahr el Ain Road, Al Haykalieh
+Telephone: +961-6-416333
+Fax: +961-6-417333	Halba - Akkar Campus:
+
+Address: Halba, Akkar - Route Tal Abbas
+Telephone: +961-6-695488
+Fax: +961-6-695584
+Mount Lebanon Campus:
+
+Address: Saloumi Street
+Telephone: +961-01-490543	Nabatieh Campus:
+
+Address: Facing Lebanese University
+Telephone: +961-7-767603,4
+Fax: +961-7-767601	Tyre Campus:
+
+Address: Abbasiyeh Diversion - Behind Mojamma' Al Kaa'm
+Telephone: +961-7-351410
+ 
+ 
+ 
+YEMEN
+Aden
+
+Address: Khormaksar, near Al-Razi Hospital
+Telephone: +967-2-239925 / 26
+Fax: +967-2-239921	Mauritania
+
+Address: Nouakchot
+Telephone: +222-5251888
+Sana'a
+
+Address: 50 st., next to Shahran roundabout
+Telephone: +967 1 434360/1/2
+Fax: +967 1 43 43 63	Senegal
+
+Address: Dakar
+Telephone: +221-338251437
+Taiz
+
+Address: Camp Area, near Endownment Office
+Telephone: +967-4-282501 / 02
+Fax:+967-4-282503
+
+
+
+
+
+
+
+	
+
+
+Code: CSCI200
+Title: Introduction to Computers
+Section: G
+Instructor: Hussein Chawich
+Room: Online
+Schedule: MW 14:00-15:15
+Credits: 3
+Type: GER
+________________________________________
+Code: ENGL101
+Title: Introduction to Oral and Written Skills
+Section: F
+Instructor: Seema AHalat
+Room: 202-C
+Schedule: MTWTh 11:00-12:20
+Credits: 4
+Type: Remedial
+________________________________________
+Code: MATH210
+Title: Calculus II
+Section: C
+Instructor: Karim MAmin
+Room: 214-C
+Schedule: TTh 14:00-15:15
+Credits: 3
+Type: Core
+________________________________________
+Code: MATH225
+Title: Linear Algebra with Applications
+Section: B
+Instructor: Ragheb HMghames
+Room: 311-C
+Schedule: TTh 12:30-13:45
+Credits: 3
+Type: Core
+
+
+ode: ARAB200
+Title: Arabic Language and Literature
+Section: G
+Instructor: Adnan HKenaan
+Room: C2
+Schedule: TTh 12:30-13:45
+Credits: 3
+Type: GER
+________________________________________
+Code: CSCI205
+Title: Computer Science Overview
+Section: A
+Instructor: Khaled Khalil
+Room: 218-C
+Schedule: MW 12:30-13:45
+Credits: 3
+Type: Core
+________________________________________
+Code: CULT200
+Title: Introduction to Arab - Islamic Civilization
+Section: B
+Instructor: Nidal SEl Emam
+Room: C2
+Schedule: MW 11:00-12:15
+Credits: 3
+Type: GER
+________________________________________
+Code: ENGL151
+Title: Advanced Writing Skills
+Section: A
+Instructor: Alia AEl Hawari
+Room: 307-C
+Schedule: MTWTh 08:00-09:20
+Credits: 4
+Type: Remedial
+________________________________________
+Code: MATH260
+Title: Discrete Mathematics
+Section: C
+Instructor: Karim MAmin
+Room: 209-C
+Schedule: TTh 09:30-10:45
+Credits: 3
+Type: Core
+Code: CSCI250
+Title: Introduction to Programming
+Section: A
+Instructor: Natasha SolodBitar
+Room: 111-B
+Schedule: MTWTh 10:00-11:50
+Credits: 3
+Type: Core
+________________________________________
+Code: CSCI250L
+Title: Introduction to Programming Lab
+Section: C
+Instructor: Haissam BAawar-Al
+Room: 105-B (CL)
+Schedule: TWTh 12:00-13:15
+Credits: 1
+Type: Core
+________________________________________
+Code: ENGL201
+Title: Composition and Research Skills
+Section: A
+Instructor: Iman AAbdul Fattah
+Room: 201-C
+Schedule: MTWTh 08:00-09:50
+Credits: 3
+Type: GER
+Code: CSCI250L
+Title: Introduction to Programming Lab
+Section: F
+Instructor: Dina AJordi
+Room: 116-B (CL)
+Schedule: Th 09:30-10:45
+Credits: 1
+Type: Core
+________________________________________
+Code: CSCI300
+Title: Intermediate Programming with Objects
+Section: B
+Instructor: Natasha SolodBitar
+Room: 110-B
+Schedule: TTh 11:00-12:15
+Credits: 3
+Type: Core
+________________________________________
+Code: CSCI300L
+Title: Intermediate Programming with Objects Lab
+Section: A
+Instructor: Bilal AGhazal
+Room: 105-B (CL)
+Schedule: T 14:00-15:15
+Credits: 1
+Type: Core
+________________________________________
+Code: CSCI335
+Title: Database Systems
+Section: E
+Instructor: Zeinab Hajj Hassan
+Room: 218-B
+Schedule: TTh 08:00-09:15
+Credits: 3
+Type: Core
+________________________________________
+Code: CSCI342
+Title: Fundamentals of Networking Technologies
+Section: A
+Instructor: Abdul Rahman Kadri
+Room: 303-B (CL)
+Schedule: MW 08:00-09:15
+Credits: 3
+Type: Core
+________________________________________
+Code: CSCI345
+Title: Digital Logic
+Section: D
+Instructor: Fouad MNajem
+Room: 218-C
+Schedule: MW 11:00-12:15
+Credits: 3
+Type: Core
+________________________________________
+Code: ENGL251
+Title: Communication Skills
+Section: D
+Instructor: Khaoula FHachem
+Room: 202-C
+Schedule: TTh 12:30-13:45
+Credits: 3
+Type: GER
+Code: CSCI351
+Title: Concepts of Programming Languages
+Section: A
+Instructor: Natasha SolodBitar
+Room: 112-B
+Schedule: MW 11:00-12:15
+Credits: 3
+Type: Major
+________________________________________
+Code: CSCI373
+Title: Robotics Design & Coding
+Section: D
+Instructor: Noor WAbou Yassine
+Room: 303-B (CL)
+Schedule: TTh 11:00-12:15
+Credits: 3
+Type: Core
+________________________________________
+Code: CSCI378
+Title: Data Structures and Algorithms
+Section: B
+Instructor: Natasha SolodBitar
+Room: 112-B
+Schedule: TTh 09:30-10:45
+Credits: 3
+Type: Major
+________________________________________
+Code: CSCI380
+Title: Software Engineering
+Section: A
+Instructor: Natasha SolodBitar
+Room: 112-B
+Schedule: MW 08:00-09:15
+Credits: 3
+Type: Major
+________________________________________
+Code: CSCI390
+Title: Web Programming
+Section: D
+Instructor: Haissam BAawar-Al
+Room: 303-B (CL)
+Schedule: TTh 14:00-15:15
+Credits: 3
+Type: Core
+________________________________________
+Code: CSCI392
+Title: Computer Networks
+Section: C
+Instructor: Abdul Rahman Kadri
+Room: 105-B (CL)
+Schedule: MW 12:30-13:45
+Credits: 3
+Type: Major
+Code: CSCI426
+Title: Web Programming Advanced
+Section: A
+Instructor: Walid MaaroufAmer
+Room: 105-B (CL)
+Schedule: MTWTh 08:00-09:50
+Credits: 3
+Type: Core
+________________________________________
+Code: MATH310
+Title: Probability & Statistics for Scientists & Engineers
+Section: A
+Instructor: Karim MAmin
+Room: 215-C
+Schedule: MTWTh 12:00-13:50
+Credits: 3
+Type: Major
+Code: BMED210
+Title: Introduction to Community Health
+Section: A
+Instructor: Mohammad yJazieh
+Room: 209-C
+Schedule: MW 09:30-10:45
+Credits: 3
+Type: GERElective
+________________________________________
+Code: CSCI430
+Title: Operating Systems
+Section: E
+Instructor: Omar AMohammad
+Room: 013-C
+Schedule: TTh 11:00-12:15
+Credits: 3
+Type: Major
+________________________________________
+Code: CSCI430L
+Title: Operating Systems Lab
+Section: B
+Instructor: Omar AMohammad
+Room: 119-B (CL)
+Schedule: W 08:00-08:50
+Credits: 1
+Type: Major
+________________________________________
+Code: CSCI435
+Title: Computer Architecture
+Section: B
+Instructor: Haissam BAawar-Al
+Room: 221-B
+Schedule: TTh 12:30-13:45
+Credits: 3
+Type: Major
+________________________________________
+Code: CSCI441
+Title: Machine Learning
+Section: A
+Instructor: Aya NabihMhalla
+Room: B3
+Schedule: TTh 09:30-10:45
+Credits: 3
+Type: Tech
+________________________________________
+Code: CSIT415
+Title: System and Network Administration
+Section: A
+Instructor: Ziad Kassam
+Room: 105-B (CL)
+Schedule: TTh 14:00-15:15
+Credits: 3
+Type: Tech
+________________________________________
+Code: MATH375
+Title: Numerical Methods for Scientists & Engineers
+Section: B
+Instructor: Ragheb HMghames
+Room: 205-C (CL)
+Schedule: MW 14:00-15:15
+Credits: 3
+Type: Major
+Code: CSCI362
+Title: Network Security
+Section: B
+Instructor: Omar AMohammad
+Room: 303-B (CL)
+Schedule: TTh 08:00-09:15
+Credits: 3
+Type: Tech
+________________________________________
+Code: CSCI452
+Title: Topics in Computer Science
+Section: E
+Instructor: Omar AMohammad
+Room: C1
+Schedule: TBA
+Credits: 1
+Type: Core
+________________________________________
+Code: CSCI475
+Title: Artificial Intelligence
+Section: C
+Instructor: Aya NabihMhalla
+Room: 110-B
+Schedule: MW 12:30-13:45
+Credits: 3
+Type: Major
+________________________________________
+Code: CSCI490
+Title: Information System Development
+Section: H
+Instructor: Bilal AGhazal
+Room: 205-C (CL)
+Schedule: MW 08:00-09:15
+Credits: 3
+Type: Major
+________________________________________
+Code: CSIT381
+Title: Microcomputer Support
+Section: B
+Instructor: Noor WAbou Yassine
+Room: 118-B (CL)
+Schedule: TTh 11:00-12:15
+Credits: 3
+Type: Tech
+

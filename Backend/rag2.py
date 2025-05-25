@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 
 
 # Load environment variables
-load_dotenv()
+load_dotenv(override=True)
 import json
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
@@ -18,53 +18,52 @@ from langchain_pinecone import PineconeVectorStore
 
 # Initialize embeddings and document search
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
-docsearch = PineconeVectorStore(index_name="geozar", embedding=embeddings)
+docsearch = PineconeVectorStore(index_name="liu", embedding=embeddings)
 
 # Initialize the chat model
 chat = ChatOpenAI(verbose=True, temperature=0)
 
 
 def run_llm2(query: str):
-
-    # Create a proper PromptTemplate with both context and input
-    # 'context' will represent the documents retrieved, and 'input' is the user query
+    # Define the prompt template
     prompt_template = PromptTemplate(
         input_variables=["input", "context"],
-        template=f"""You are a helpful teacher called Nabux (نبو إكس), you task is to teach AI for people who know AI. Give examples
-        with equations and real data examples.
-          . reply to users in arabic.
-          {{context}}
+        template="""
+You are LIU Chatbot, a knowledgeable and friendly assistant for the Lebanese International University (LIU). 
+Your role is to help students, applicants, and visitors by answering any questions they may have about LIU.
 
-   when the user asks about algorithm about AI, answer it and link it to how we can use in AI in real example
+Your responses must:
+- Be written in clear and helpful English.
+- Be accurate, concise, and easy to understand.
+- Provide useful information about LIU's programs, campuses, admissions, fees, student life, instructors, and more.
 
+{context}
 
-Important: Don't answer anything not related to AI.
+If the user asks something outside the scope of LIU, politely inform them that your role is limited to LIU-related topics.
 
-    Question: {{input}}
-        Assistant Response:
-        """
+Question: {input}
+Assistant Response:
+"""
     )
 
-
-    # Now, create the stuff_documents_chain with the PromptTemplate
+    # Create document chain
     stuff_documents_chain = create_stuff_documents_chain(chat, prompt_template)
 
+    # Manually retrieve relevant documents
+    retriever = docsearch.as_retriever()
+    docs = retriever.get_relevant_documents(query)
 
-    # Create the history-aware retriever
-    history_aware_retriever = create_history_aware_retriever(
-        llm=chat, retriever=docsearch.as_retriever(), prompt=prompt_template
-    )
+    # --- 🔍 Print retrieved context ---
+    print("\n🔍 Retrieved Context\n" + "-"*60)
+    for i, doc in enumerate(docs, start=1):
+        print(f"\n📄 Document {i}:\n{doc.page_content}\n" + "-"*60)
 
+    # Generate final answer with context
+    result = stuff_documents_chain.invoke({
+        "context": docs,
+        "input": query
+    })
 
-    # Create the QA chain with the modified prompt
-    qa = create_retrieval_chain(
-        retriever=history_aware_retriever, combine_docs_chain=stuff_documents_chain
-    )
-
-    # Invoke the chain with user input
-    result = qa.invoke(input={"input":query})
-    #print(result)
-    # Print the result, which should include static context plus the user input
-    return result["answer"]
+    return result
 
 
